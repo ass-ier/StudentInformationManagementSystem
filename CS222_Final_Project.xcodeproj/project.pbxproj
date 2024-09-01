@@ -25,6 +25,18 @@
 /* Begin PBXFileReference section */
 		2E87EAB7281ADF4D00F00228 /* CS222_Final_Project */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CS222_Final_Project; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E87EABA281ADF4D00F00228 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2E87EADE281AE63A00F00228 /* admin_login.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = admin_login.cpp; sourceTree = "<group>"; };
+		2E87EADF281AE63A00F00228 /* admin_login.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = admin_login.hpp; sourceTree = "<group>"; };
+		2E87EAE0281AED9500F00228 /* teacher_registration_page.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = teacher_registration_page.cpp; sourceTree = "<group>"; };
+		2E87EAE1281AED9500F00228 /* teacher_registration_page.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = teacher_registration_page.hpp; sourceTree = "<group>"; };
+		2E87EAE2281AF03A00F00228 /* student_registration_page.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student_registration_page.cpp; sourceTree = "<group>"; };
+		2E87EAE3281AF03A00F00228 /* student_registration_page.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = student_registration_page.hpp; sourceTree = "<group>"; };
+		2E87EAE4281B059D00F00228 /* teacher_login_page.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = teacher_login_page.cpp; sourceTree = "<group>"; };
+		2E87EAE5281B059D00F00228 /* teacher_login_page.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = teacher_login_page.hpp; sourceTree = "<group>"; };
+		2E87EAE6281B0FEA00F00228 /* course_add_page.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = course_add_page.cpp; sourceTree = "<group>"; };
+		2E87EAE7281B0FEA00F00228 /* course_add_page.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = course_add_page.hpp; sourceTree = "<group>"; };
+		2E87EAFB281F076200F00228 /* student_login_page.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = student_login_page.cpp; sourceTree = "<group>"; };
+		2E87EAFC281F076200F00228 /* student_login_page.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = student_login_page.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +53,18 @@
 		2E87EAAE281ADF4D00F00228 = {
 			isa = PBXGroup;
 			children = (
+				2E87EAFB281F076200F00228 /* student_login_page.cpp */,
+				2E87EAFC281F076200F00228 /* student_login_page.hpp */,
+				2E87EAE6281B0FEA00F00228 /* course_add_page.cpp */,
+				2E87EAE7281B0FEA00F00228 /* course_add_page.hpp */,
+				2E87EAE4281B059D00F00228 /* teacher_login_page.cpp */,
+				2E87EAE5281B059D00F00228 /* teacher_login_page.hpp */,
+				2E87EAE2281AF03A00F00228 /* student_registration_page.cpp */,
+				2E87EAE3281AF03A00F00228 /* student_registration_page.hpp */,
+				2E87EAE0281AED9500F00228 /* teacher_registration_page.cpp */,
+				2E87EAE1281AED9500F00228 /* teacher_registration_page.hpp */,
+				2E87EADE281AE63A00F00228 /* admin_login.cpp */,
+				2E87EADF281AE63A00F00228 /* admin_login.hpp */,
 				2E87EAB9281ADF4D00F00228 /* CS222_Final_Project */,
 				2E87EAB8281ADF4D00F00228 /* Products */,
 			);
